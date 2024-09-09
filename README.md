@@ -6,12 +6,12 @@
    ```
 2) Создать и активировать виртуальное окружение
    ```
-   python - m venv venv
+   python -m venv venv
    venv\Scripts\activate
    ```
 3) Установить зависимости
    ```
-   pip install - r requirements.txt
+   pip install -r requirements.txt
    ```
 4) Перейти в директорию проекта
    ```
